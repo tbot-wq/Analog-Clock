@@ -6,7 +6,7 @@ This analog clock shows us the time of the place we are in. It is a excition Pro
 
 ## Authors
 
-- [@Tejeshwi Anand Jha](https://www.github.com/octokatherine)
+- [@Tejeshwi Anand Jha](https://www.github.com/tbot-wq)
 
   
 ## Lessons Learned
